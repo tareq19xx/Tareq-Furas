@@ -1,1 +1,2 @@
 # Tareq-Furas
+This is the first code that im posting in github community. I hope that it helps other students in the same feild who have simiar methodology and need to learn about pair trading. As this blog will have a detialed approach for creating an investment strategy for pair trading. I have used MathLab to create this investment strategy. This was a project for class that i have taken during masters degree in finance. 
